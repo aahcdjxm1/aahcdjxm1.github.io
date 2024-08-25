@@ -1,0 +1,53 @@
+body
+{
+    background-color: #fdffda;
+    
+}
+#top
+{
+    position:fixed;
+    width:100%;
+    left: 0;
+    top: 0;
+    background-color:#ffff85 ;
+    display: flex;
+    justify-content: space-between;
+}
+#sidebar
+{
+    width: 159px;
+    height: 100%; 
+    top:32;
+    position: fixed; 
+    left:0;
+    background-color: #80ef58;
+}
+#mid
+{
+    position: relative;
+    left: 150px;
+    background-color: #fdffda;
+}
+#bot
+{
+    background-color:#edf046;
+    position:fixed;
+    width:100%;
+    left: 0;
+    bottom: 0;
+    background-color: #ffff85;
+    display: flex;
+    justify-content: space-between;
+}
+a
+{
+    text-decoration: none;
+}
+h1
+{
+    margin: 0px 0px;
+}
+#inline
+{
+    display: inline;
+}
